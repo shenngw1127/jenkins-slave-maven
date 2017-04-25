@@ -1,4 +1,4 @@
-FROM jenkinsci/docker-ssh-slave
+FROM jenkinsci/ssh-slave
 MAINTAINER Wang Sheng <shengw1127@gmail.com>
 
 ARG MAVEN_VERSION=3.3.9
